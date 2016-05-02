@@ -1,3 +1,10 @@
+#Lab are at
+
+https://github.com/ajitchahal/aws-cf-templates
+
+https://github.com/ajitchahal/learn-cloudformation
+
+
 # aws school
 
 AWS creating infrastructure, following ways:
